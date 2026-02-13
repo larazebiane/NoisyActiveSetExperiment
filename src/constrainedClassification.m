@@ -5,7 +5,7 @@ classdef constrainedClassification < handle
   % Authors     : Lara Zebiane and Frank E. Curtis
 
   % Properties
-  properties
+  properties 
 
     batch_size      % batch size
     inputs_obj      % inputs for objective (the feature data)
