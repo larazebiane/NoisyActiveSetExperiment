@@ -2,7 +2,7 @@ classdef constrainedClassification < handle
 
   % Description : Neural network, objective, and constraint function
   %               definitions for trainNeuralNetwork
-  % Authors     : Lara Zebiane and Frank E. Curtis
+  % Authors     : Lara Zebiane and Frank E. Curtis 
 
   % Properties
   properties  
