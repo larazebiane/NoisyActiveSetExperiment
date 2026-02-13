@@ -23,7 +23,7 @@ classdef constrainedClassification < handle
 
   end % properties
 
-  % Methods
+  % Methods 
   methods (Access = public)
 
     % Batch size
