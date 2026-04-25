@@ -1,7 +1,7 @@
 function X_constraints = constraintData(X_train,n_constraints)
 
 % Description : Sets constraint data for trainNeuralNetwork
-% Authors     : Lara Zebiane and Frank E. Curtis 
+% Authors     : Lara Zebiane and Frank E. Curtis
 % Inputs      : X_train, complete set of training inputs 
 %               n_constraints, number of desired constraints
 % Outputs     : X_constraints, constraint inputs
