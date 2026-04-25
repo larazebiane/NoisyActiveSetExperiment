@@ -5,7 +5,7 @@ function X_constraints = constraintData(X_train,n_constraints)
 % Inputs      : X_train, complete set of training inputs
 %               n_constraints, number of desired constraints
 % Outputs     : X_constraints, constraint inputs
-
+ 
 % Randomize indices
 [~,ind_constraints] = sortrows(X_train',5);
 ind_constraints = ind_constraints';
